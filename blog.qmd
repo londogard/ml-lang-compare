@@ -1,0 +1,11 @@
+# Elixir
+
+Simple, quick install with Livebook. Incredibly fast to get started! :D
+
+# F#
+
+Big installer. VS Code Plugin (Polyglot Notebook).
+
+# Python
+
+Obviously simple to install with incredible help.
