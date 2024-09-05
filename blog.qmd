@@ -2,10 +2,33 @@
 
 Simple, quick install with Livebook. Incredibly fast to get started! :D
 
-# F#
 
-Big installer. VS Code Plugin (Polyglot Notebook).
 
 # Python
 
 Obviously simple to install with incredible help.
+
+# Julia
+
+Flux.jl is really awesome, and FastAI.jl is every much as awesome! :D
+
+# "Problematic" Languages
+
+I tried F# and Rust in addition to the languages above. They were cool but ended up a bit complex for a prototype and is more of something you do for deployment probably.  
+
+Perhaps I'll do a single blog per language later on, as the time spent would be a lot higher.
+
+## F#
+
+I'd say that there's a few cons attached to F#-approach with 
+
+Big installer. VS Code Plugin (Polyglot Notebook).
+
+# Rust
+
+I found the following [source code](https://github.com/huggingface/candle/blob/main/candle-examples/examples/mnist-training/main.rs) on MNIST and deemed that there's too much boilerplate to make it blog-worthy, for now. 
+
+**Candle seriously looks really awesome**, but it's a bit low-level and nitty-gritty to become a good prototyping tool - it's a little bit like building Deep Learning just DL4J (DeepLearning4Java) earlier.  
+That is, Candle enables doing most of what you wish to do, but there's no good high-level abstractions around simplifying things.
+
+I'll put some effort into learning Rust better, perhaps with that it turns out Candle is actually quite simple to use!

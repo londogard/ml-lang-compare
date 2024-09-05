@@ -1,0 +1,14 @@
+[project]
+name = "ml-lang-compare"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["hampus.londogard@gmail.com <hampus.londogard@gmail.com>"]
+channels = ["conda-forge", "jetbrains"]
+platforms = ["osx-arm64"]
+
+[tasks]
+
+[dependencies]
+kotlin-jupyter-kernel = ">=0.12.0.217,<0.12.1"
+openjdk = "~=11.0.0"
+notebook = ">=7.2.1,<7.3"
